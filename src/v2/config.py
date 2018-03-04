@@ -1,0 +1,8 @@
+#coding:utf-8
+
+CON_ACCOUNT = "o140730205"
+
+CON_PASSWORD = "19951222"
+
+CON_IFNAME = "wlp3s0"
+
